@@ -1,5 +1,5 @@
 # 💫 About Me:
-BSIT student with hands-on experience in Artificial Intelligence and Web Development. <br>I’ve completed multiple AI projects and certifications, alongside building web solutions, giving me a strong mix of technical and practical skills.<br>I’m seeking internships or entry-level roles where I can contribute to AI-driven applications and web projects, apply my machine learning, web design, and coding skills, and deliver real-world impact.<br>I have done a course in AI and am now working on web development, while also taking online short courses to strengthen my AI.
+I am BSIT student with hands-on experience in Artificial Intelligence and Web Development. <br>I’ve completed multiple AI projects and certifications, alongside building web solutions, giving me a strong mix of technical and practical skills.<br>I’m seeking internships or entry-level roles where I can contribute to AI-driven applications and web projects, apply my machine learning, web design, and coding skills, and deliver real-world impact.<br>I have done a course in AI and I am now working on web development, while also taking online short courses to strengthen my AI.
 
 
 ## 🌐 Socials:
