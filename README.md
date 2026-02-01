@@ -3,7 +3,7 @@
 - 👀 I’m interested in Machine Learning, Deep Learning, Neural Networks, Web Development and Typing.
 - 🌱 I’m currently learning Web Development and online AI short courses to expand my skills.
 - 💞️ I’m looking to collaborate on AI and Web Development projects.
-- 📫 How to reach me: https://linkedin.com/in/Saleha-khalid-b7a837326
+- 📫 How to reach me: linkedin
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love exploring new tools, frameworks, and solutions.
 
